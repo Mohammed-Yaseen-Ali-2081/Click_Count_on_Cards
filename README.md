@@ -1,1 +1,7 @@
 # Click_Count_on_Cards
+
+Here we count the clicks on a particular card and store it in a database.
+
+A sample web page is created with three cards in it each having a button in order to redirect to the info of that particular card, whenever a button of a particular card is clicked we record it and save the count of each button in the database.
+
+HTML CSS PHP and a bit of Bootstrap is been used here.
