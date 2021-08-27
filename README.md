@@ -9,5 +9,9 @@ HTML CSS PHP and a bit of Bootstrap is been used here.
 # Execution Manual:
 
 First of all open your xampp control panel and turn on the Apache and MySql server
+
 Download this .zip repository file and extract the files in xampp/htdocs/folder (If you've worked with php you'll already know about this)
+
 Make sure to change the database details given in the code to your local database credentials
+
+The file to be executed is Proj_new.php
